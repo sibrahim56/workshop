@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Sam Ibrahim"
+author: "Math_116"
 date: "Fall semester"
 output: html_document
 ---
